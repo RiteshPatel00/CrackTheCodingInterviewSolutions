@@ -2,7 +2,7 @@
 # Crack the Coding Interview
 Attempts and solutions on the exercises provided in Crack the Coding Interview by Gayle Laakmann McDowell
 
-<a href="">
+<a href="https://github.com/alxerg/Books-1/blob/master/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf">
   <img src="Images/Cracking+the+Coding+Interview,+6th+Edition.png" align="right" height="280" width="200" >
 </a>
 
