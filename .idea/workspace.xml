@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="574b8002-639c-46fe-8f28-e0fa88674fac" name="Default Changelist" comment="" />
+    <list default="true" id="574b8002-639c-46fe-8f28-e0fa88674fac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Chapter1/Check_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter1/URLify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackTheCodingInterviewSolutions/Chapter1/Is_Unique.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackTheCodingInterviewSolutions/Chapter1/Is_Unique.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackTheCodingInterviewSolutions/TestClass.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +40,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Is_Unique">
+  <component name="RunManager" selected="Application.URLify">
+    <configuration name="Check_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter1.Check_Permutation" />
+      <module name="CrackTheCodingInterviewSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Is_Unique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter1.Is_Unique" />
+      <module name="CrackTheCodingInterviewSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chapter1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="URLify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter1.URLify" />
       <module name="CrackTheCodingInterviewSolutions" />
       <extension name="coverage">
         <pattern>
@@ -57,6 +89,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.URLify" />
+        <item itemvalue="Application.Check_Permutation" />
         <item itemvalue="Application.Is_Unique" />
         <item itemvalue="Application.hello" />
       </list>
