@@ -12,6 +12,8 @@ public class URLify {
 
 
     static String convert(String str){
+
+        //Trim the spaces and replace spaces in the middle with '%20'
         return str.trim().replaceAll("\\s", "%20");
     }
 
