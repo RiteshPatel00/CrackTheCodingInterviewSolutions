@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="574b8002-639c-46fe-8f28-e0fa88674fac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Chapter1/String_Rotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chapter1/Zero_Matrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter1/Rotate_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter1/Rotate_Matrix.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
