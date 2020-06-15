@@ -4,7 +4,12 @@ public class String_Rotation {
 
     public static void main(String[] args) {
         String a = "Hello";
-        String b = "He";
-        System.out.println(a.contains(b));
+        String b = "lloHe";
+        System.out.println(stringRotation(a,b));
+    }
+
+
+    static boolean stringRotation(String a, String b){
+        return (a.length() == b.length() && (a+a).contains(b));
     }
 }
