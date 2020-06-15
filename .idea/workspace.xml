@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="574b8002-639c-46fe-8f28-e0fa88674fac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chapter1/String_Rotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter1/Zero_Matrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CrackTheCodingInterviewSolutions/Chapter1/Rotate_Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CrackTheCodingInterviewSolutions/Chapter1/Rotate_Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter1/String_Rotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter1/String_Rotation.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.String_Compression">
+  <component name="RunManager" selected="Application.String_Rotation">
     <configuration name="Is_Unique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chapter1.Is_Unique" />
       <module name="CrackTheCodingInterviewSolutions" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1.Palindrome_Permutation" />
+    <configuration name="String_Compression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter1.String_Compression" />
       <module name="CrackTheCodingInterviewSolutions" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Compression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chapter1.String_Compression" />
+    <configuration name="String_Rotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chapter1.String_Rotation" />
       <module name="CrackTheCodingInterviewSolutions" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.String_Rotation" />
         <item itemvalue="Application.String_Compression" />
         <item itemvalue="Application.URLify" />
         <item itemvalue="Application.Is_Unique" />
         <item itemvalue="Application.One_Away" />
-        <item itemvalue="Application.Palindrome_Permutation" />
       </list>
     </recent_temporary>
   </component>
